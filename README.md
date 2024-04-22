@@ -1,7 +1,6 @@
-# RetroPad Editor
-Online tool to create and edit onscreen gamepads for RetroArch.
+# RetroPad Editor for Delta
 
-https://valent-in.github.io/retropad-editor/
+An attempt to modify the retroarch retropad emulator for delta. Not currently functional!
 
 Features:
 - Create, move, resize buttons of virtual gamepad.
